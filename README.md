@@ -3,8 +3,8 @@
 A responsive e-commerce website built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
-
-https://bipintechlab-tech.github.io/ecommerce-website/
+[
+(https://github.com/bipintechlab-tech/ecommerce.website/tree/main)
 
 ## 📌 Features
 
